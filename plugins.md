@@ -36,20 +36,9 @@
 * [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
 
 
-# Tema que estoy usando:
-* [Monokai Night](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
 
-# Configuración del Bracket Pair Colorizer 2
-```
-"bracket-pair-colorizer-2.colors": [
-    "#fafafa",
-    "#9F51B6",
-    "#F7C244",
-    "#F07850",
-    "#9CDD29",
-    "#C497D4"
-],
-```
+
+
 
 # Instalar paquetes para correr 
 # directamente en ios.
